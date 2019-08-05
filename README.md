@@ -18,12 +18,10 @@ The original dataset can be found here:
 https://www.kaggle.com/iarunava/imdb-movie-reviews-dataset
 
 
-## Labels (Object Classes)
+## Labels (Sentiment Analysis)
 
 This model uses binary classification to determine if a review is positive or negative. If the probability of the output function is greater than 0.5, the review is positive, if its less, than the review is negative.
 									
-
-
 
 ## Approach
 
